@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm levi</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/3660441/screenshots/9197614/media/02275d89ac30c3d9e18c3946987f8f57.gif" alt="levi-labs" />
+<img align="right" width="200" src="https://cdn.dribbble.com/users/3660441/screenshots/9197614/media/02275d89ac30c3d9e18c3946987f8f57.gif" alt="levi-labs" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levi-labs&label=Profile%20views&color=0e75b6&style=flat" alt="levi-labs" /> </p>
 
