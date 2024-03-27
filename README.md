@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm levi</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<iframe src="https://giphy.com/embed/liRTgRfK9XljrH2EFt" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-coding-coder-the-space-liRTgRfK9XljrH2EFt">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levi-labs&label=Profile%20views&color=0e75b6&style=flat" alt="levi-labs" /> </p>
 
