@@ -1,4 +1,4 @@
-![Header](./[https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png])
+![Header](./your-header-image-name.png)
 
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm levi</h1>
