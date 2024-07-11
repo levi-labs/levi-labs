@@ -26,3 +26,7 @@
 <p>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=levi-labs&show_icons=true&locale=en" alt="levi-labs" /></p>
 
 <p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=levi-labs&" alt="levi-labs" /></p>
+
+
+
+![Snake animation](https://raw.githubusercontent.com/{levi-labs}/{levi-labs}/output/github-contribution-grid-snake-dark.svg)
