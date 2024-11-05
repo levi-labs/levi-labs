@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Flutter, Laravel, NextJs**
 
-- 📫 How to reach me **rp.quraisy@gmail.com**
+- 📫 How to reach me **levyquraisy@gmail.com**
 
 - ⚡ Fun fact **Funny & Santuy**
 
